@@ -1,6 +1,3 @@
-[Свёрстанные вопросы и ответы](book/Java_questions.pdf) [by Victoria Demidova](https://github.com/VictoriaDemidova)  
-[Telegram Bot](https://web.telegram.org/#/im?p=@DevInterviewBot) [by cmmttd](https://github.com/cmmttd)
-
 # Вопросы для собеседования на Java Developer
 
 + [ООП](#ООП) ![icon][done]
@@ -668,6 +665,3 @@
 + [Что такое _«авторизация»_ и _«аутентификация»_? Чем они отличаются?](web.md#Что-такое-авторизация-и-аутентификация-Чем-они-отличаются)
 
 [к оглавлению](#Вопросы-для-собеседования-на-java-developer)
-
-## Источники
-+ [Вопросы на собеседование Junior Java Developer](https://jsehelper.blogspot.ru)
