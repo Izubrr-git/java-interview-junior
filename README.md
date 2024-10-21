@@ -1,21 +1,21 @@
 # Вопросы для собеседования на Java Developer
-
-+ [ООП](#ООП) ![icon][done]
-+ [JVM](#jvm) ![icon][done]
-+ [Java Core](#java-core) ![icon][done]
-+ [Java Collections Framework](#java-collections) ![icon][done]
-+ [Java 8](#java-8) ![icon][done]
-+ [Потоки ввода-вывода в Java](#Потоки-вводавывода-в-java) ![icon][done]
-+ [Сериализация](#Сериализация) ![icon][done]
-+ [Многопоточность](#Многопоточность) ![icon][done]
-+ [Servlets, JSP, JSTL](#servlets-jsp-jstl) ![icon][done]
-+ [Базы данных](#Базы-данных) ![icon][done]
-+ [SQL](#sql) ![icon][done]
-+ [JDBC](#jdbc) ![icon][done]
-+ [Тестирование](#Тестирование) ![icon][done]
-+ [Шаблоны проектирования](#Шаблоны-проектирования) ![icon][done]
-+ [Основы Web](#Основы-web) ![icon][done]
-+ [Дополнительные материалы](#Дополнительные-материалы) ![icon][done]
+![icon][done]
++ [ООП](#ООП) 
++ [JVM](#jvm) 
++ [Java Core](#java-core) 
++ [Java Collections Framework](#java-collections) 
++ [Java 8](#java-8) 
++ [Потоки ввода-вывода в Java](#Потоки-вводавывода-в-java) 
++ [Сериализация](#Сериализация) 
++ [Многопоточность](#Многопоточность) 
++ [Servlets, JSP, JSTL](#servlets-jsp-jstl) 
++ [Базы данных](#Базы-данных) 
++ [SQL](#sql) 
++ [JDBC](#jdbc) 
++ [Тестирование](#Тестирование) 
++ [Шаблоны проектирования](#Шаблоны-проектирования) 
++ [Основы Web](#Основы-web) 
++ [Дополнительные материалы](#Дополнительные-материалы) 
 
 [done]:done.png
 
