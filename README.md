@@ -6,7 +6,7 @@
 + [Java Collections Framework](#java-collections) ![icon][done]
 + [Java 8](#java-8) 
 + [Потоки ввода-вывода в Java](#Потоки-вводавывода-в-java) 
-+ [Сериализация](#Сериализация) 
++ [Сериализация](#Сериализация) ![icon][done]
 + [Многопоточность](#Многопоточность) 
 + [Servlets, JSP, JSTL](#servlets-jsp-jstl) 
 + [Базы данных](#Базы-данных) 
