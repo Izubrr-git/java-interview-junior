@@ -4,7 +4,7 @@
 + [JVM](#jvm) ![icon][done]
 + [Java Core](#java-core) ![icon][done]
 + [Java Collections Framework](#java-collections) ![icon][done]
-+ [Java 8](#java-8) 
++ [Java 8](#java-8) ![icon][done]
 + [Потоки ввода-вывода в Java](#Потоки-вводавывода-в-java) 
 + [Сериализация](#Сериализация) ![icon][done]
 + [Многопоточность](#Многопоточность) 
