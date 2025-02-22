@@ -8,7 +8,7 @@
 + [Потоки ввода-вывода в Java](#Потоки-вводавывода-в-java) ![icon][done]
 + [Сериализация](#Сериализация) ![icon][done]
 + [Многопоточность](#Многопоточность) ![icon][done]
-+ [Servlets, JSP, JSTL](#servlets-jsp-jstl) 
++ [Servlets, JSP, JSTL](#servlets-jsp-jstl) ![icon][done]
 + [Базы данных](#Базы-данных) ![icon][done]
 + [SQL](#sql) 
 + [JDBC](#jdbc) ![icon][done]
