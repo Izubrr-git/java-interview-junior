@@ -10,7 +10,7 @@
 + [Многопоточность](#Многопоточность) ![icon][done]
 + [Servlets, JSP, JSTL](#servlets-jsp-jstl) ![icon][done]
 + [Базы данных](#Базы-данных) ![icon][done]
-+ [SQL](#sql) 
++ [SQL](#sql) ![icon][done]
 + [JDBC](#jdbc) ![icon][done]
 + [Тестирование](#Тестирование) ![icon][done]
 + [Шаблоны проектирования](#Шаблоны-проектирования) ![icon][done]
